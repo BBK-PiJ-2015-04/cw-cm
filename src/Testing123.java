@@ -5,7 +5,7 @@ public class Testing123 {
 
     public static void main(String[] args) {
 
-        System.out.println("Hello World");
+        System.out.println("Hello World\n");
         int a = 5;
         for (int i = 0; i < a; i++) {
             System.out.println("Testing123...");
