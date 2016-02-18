@@ -8,7 +8,7 @@ public class Testing123 {
         System.out.println("Hello World\n");
         int a = 5;
         for (int i = 0; i < a; i++) {
-            System.out.println("Testing123...");
+            System.out.print("Testing123...\n");
         }
 
     }
