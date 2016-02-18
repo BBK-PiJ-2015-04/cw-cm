@@ -1,4 +1,3 @@
 # cw-cm
 Coursework Three - "Contact Manager"
-Java
-
+Programming in Java

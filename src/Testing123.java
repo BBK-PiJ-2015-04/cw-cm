@@ -7,6 +7,9 @@ public class Testing123 {
 
         System.out.println("Hello World");
         int a = 5;
+        for (int i = 0; i < a; i++) {
+            System.out.println("Testing123...");
+        }
 
     }
 }
